@@ -31,7 +31,7 @@ MAX_RETRIES = 5
 RETRY_DELAY = 5
 MAX_WORKERS = 6  # عدد الحسابات الكلي (3 + 3)
 
-if not BOT_TOKEN:
+if not BOT_TOKEN:8601845756:AAGoOjdo0q9FgLMXP6MyjkThL5R9hcbmp30
     raise SystemExit("❌ BOT_TOKEN must be set")
 if not CHAT_IDS:
     raise SystemExit("❌ CHAT_IDS must be configured")
